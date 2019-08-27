@@ -7,4 +7,4 @@ Acceleration Factor (AF) prediction for accelerated life testing of photovoltaic
 <img src="https://github.com/arunbalas/ALT-of-PV-Modules/blob/master/Image/Deg%20Threshold.png" width="400" height="450">
 </p>
 
-Note that the model is built based on the limited degradation information from two sites in Arizona and New York. Hence the number of factors included in the model is one (temperature). I am still statistically calibrating this model to account for the unknown (hidden) factor effects so that the model accuracy can be improved. The results will be updated soon!
+Note that the model is built based on the limited degradation information from two sites in Arizona and New York. Hence the number of factors included in the model is one (temperature). I am still statistically calibrating this model to account for the unknown (hidden) factor effects so that the model accuracy can be improved. In addition, the sequential ALT method is also being tried and the code folder will be updated soon!

@@ -1,11 +1,8 @@
 #########
 # Acceleration Factor Calculation
 
-#Home Directory: 
-#setwd("C:/Users/Arun/Google Drive/Ph.D/DOE project/R Code_ Ea browning")
-
-#PRL Directory: 
-setwd("C:/Users/abalas18/Google Drive/Ph.D/DOE project/R Code_ Ea browning")
+#set working directory: 
+setwd("directory")
 
 library(car)
 library(datasets)

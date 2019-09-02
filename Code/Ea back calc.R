@@ -1,8 +1,5 @@
 rm(list=ls())
-setwd("C:/Users/Arun/Google Drive/Ph.D/RAMS/Code/TMY data")
-
-#PRL Directory: 
-#setwd("C:/Users/abalas18/Google Drive/Ph.D/RAMS/Code/TMY data")
+setwd("TMY data")
 
 library(car)
 library(datasets)

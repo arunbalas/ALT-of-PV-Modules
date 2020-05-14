@@ -72,4 +72,4 @@ end
 
 # sprintf("The Acceleration Factor (AF) = %f", mean(AF_real, na.rm=TRUE))
 sprintf("The Estimated Activation Energy (Ea) = %f", Ea)
-sprintf("The Rate of Degradation (Rd) = %f", Rd)
+#sprintf("The Rate of Degradation (Rd) = %f", Rd)
